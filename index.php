@@ -4,8 +4,8 @@ include_once('#');
 $page = @$_GET['page'];
 switch ($page) {
 	case null:
-	case "home"
-		$getpage = "";
+	case "home":
+		$getpage = "#";
 		break;
 }
 ?>
