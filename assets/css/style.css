@@ -4,4 +4,6 @@
 /*Start of Body Styling*/
 body {
 	background: #E8EFF5 url(/assets/img/noise.png);
+	font-family: 'Open Sans', sans-serif;
+	color: black;
 }

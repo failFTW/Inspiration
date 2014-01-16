@@ -8,6 +8,6 @@
 		<script src="core/js/jquery-1.10.2.js"></script>
 	</head>
 	<body>
-		<div id="container-navbar">
+		<div class="container-navbar">
 			
 		</div>
