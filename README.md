@@ -9,6 +9,7 @@ Inspiration was created to make something new, something that can be made with t
 - Custom CSS - Custom min.css styling.
 - User Friendly - Able to create new pages, wikis, and more with a click of a button!
 - JQuery Support - JQuery makes small scripts easier to handle, and to write, which will come in handy for clean-ups!
+
 ***
 
 ###Our Main Goal
