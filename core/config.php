@@ -4,12 +4,11 @@ if(basename($_SERVER["PHP_SELF"]) == "config.php"){
 	die("Error!");
 }
 //Configuration (Edit These)
-$host['hostname'] 		 = "";
-$host['user'] 	  		 = "";
+$host['hostname'] 		 = "localhost";
+$host['user'] 	  		 = "root";
 $host['password'] 		 = "";
-$host['database'] 		 = "";
-$serverip  		 		 = "";
-$loginport 		 		 = "";
+$host['database'] 		 = "Inspiration";
+$loginport 		 		 = "3306";
 $timezone       	     = "";
 //End of Configuration
 
